@@ -59,6 +59,13 @@ Create a scatter plot using the variables per_capita_income_ and hardship_index.
 
 #### Power BI Dashboard
 
+![](Power-BI-Dashboard.JPG)
+
+### Conclusion
+
+**Explain the correlation between per_capita_income_ and hardship_index** :
+As per capita income increases, the hardship index tends to decrease, and vice versa. This makes intuitive sense, as areas with higher incomes would generally be expected to have lower levels of hardship.
+
 
 
 
