@@ -15,6 +15,12 @@ After this task, i should be able to answer the following questions:
 - Which Chicago community areas have per-capita incomes greater than $60,000?
 - Create a scatter plot using the variables per_capita_income_ and hardship_index. Explain the correlation between the two variables.
 
+### Tools Used
+
+- SQL
+- Python
+- Microsoft Power BI
+
 ### Dataset Description
 
 The dataset comprises several socioeconomic indicators for each community area in Chicago. These include:
